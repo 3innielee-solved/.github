@@ -1,6 +1,6 @@
-# winnie-solved 🧩
+# 3innielee-solved 🧩
 
-Welcome to **winnie-solved** — a curated collection of projects where I focus on **solving real-world problems with data, engineering, and AI**.  
+Welcome to **3innielee-solved** — a curated collection of projects where I focus on **solving real-world problems with data, engineering, and AI**.  
 
 This is more than just code. Each project highlights:  
 - ✅ The **problem statement** (what challenge needed solving)  
@@ -37,4 +37,4 @@ I’m **Winnie Lee**, a senior software engineer with 8+ years of experience in 
 
 ---
 
-> 💡 This organization is called **winnie-solved** because every repo here tells the story of a **problem solved** with code, decisions, and context.
+> 💡 This organization is called **3innielee-solved** because every repo here tells the story of a **problem solved** with code, decisions, and context.
