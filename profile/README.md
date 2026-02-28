@@ -23,7 +23,9 @@ This is more than just code. Each project highlights:
 ---
 
 ## 🌟 Selected Projects
-- [**Data Jobs Tool Analysis**](https://) – analyzing tool trends in data engineering job postings to guide job seekers.  
+- [**Data Engineering Pipeline for Job Posting Analysis**](https://) – ETL pipeline to ingest, clean, and curate job postings into a labeled dataset for tool demand analysis and NLP modeling.
+- [**Comparative NLP System for Structured Tool Extraction**](https://) - Ontology-driven NLP system to extract and evaluate data tool requirements from job descriptions.
+- [**Threads Saved Posts Ingestor**](https://) - A minimal backend service that ingests and stores saved post URLs as a foundation for future categorization and search.
 
 *(More projects coming — each one framed as a problem I solved.)*  
 
