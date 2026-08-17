@@ -23,6 +23,7 @@ This is more than just code. Each project highlights:
 ---
 
 ## 🌟 Selected Projects
+- [**Nonprofit Website & Web Platform**](https://github.com/BMDIB/website) – A production nonprofit website for Berryessa Mandarin Dual Immersion Boosters (BMDIB) using Astro and Azure Static Web Apps, with a separate Entra-protected staging environment and automated GitHub Actions deployment pipeline. Covers content management, analytics, nonprofit transparency, and information for parents, teachers, and the community.
 - [**Data Engineering Pipeline for Job Posting Analysis**](https://) – ETL pipeline to ingest, clean, and curate job postings into a labeled dataset for tool demand analysis and NLP modeling.
 - [**Comparative NLP System for Structured Tool Extraction**](https://) - Ontology-driven NLP system to extract and evaluate data tool requirements from job descriptions.
 - [**Threads Saved Posts Ingestor**](https://) - A minimal backend service that ingests and stores saved post URLs as a foundation for future categorization and search.
